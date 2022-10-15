@@ -1,4 +1,4 @@
-# Welcome to the N.O.T.E.S. project
+# WELCOME TO THE N.O.T.E.S. PROJECT
 
 (__N__) *NOTES*  
 (__O__) *OF*  
