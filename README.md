@@ -1,10 +1,10 @@
 # Welcome to the N.O.T.E.S. project
 
-(__N__) *OTES*  
-(__O__) *F*  
-(__T__) *ECHNICAL*  
-(__E__) *XCEPTIONAL*  
-(__S__) *KILLS*  
+(__N__) *NOTES*  
+(__O__) *OF*  
+(__T__) *TECHNICAL*  
+(__E__) *EXCEPTIONAL*  
+(__S__) *SKILLS*  
 
 ---
 
