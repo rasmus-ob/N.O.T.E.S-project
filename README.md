@@ -1,1 +1,1 @@
-# Welcome to the NOTES project
+# Welcome to the N.O.T.E.S. project
